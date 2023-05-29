@@ -65,7 +65,7 @@ def plot_clusters(clusters, labels):
             yaxis=dict(title='Y'),
             zaxis=dict(title='Z'),
         ),
-        title="Point clound in a 3-dimensional space",
+        title="Point cloud in a 3-dimensional space",
         width=800, height=800,
         legend=dict(title='Clusters',
         font=dict(size=18)  # Tamaño de fuente de la leyenda
